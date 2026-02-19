@@ -8,7 +8,7 @@ const links = [
   {
     title: "НОВОСТИ",
     description: "Посмотри НОВОСТИ Камчатки",
-    href: "#",
+    href: "https://max.ru/join/Ad-V_Q9nr605wmkogSks9ZwhwC5AEAghl-YxwvtTE3c",
     icon: Megaphone,
   },
   {
