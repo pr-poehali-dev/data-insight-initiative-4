@@ -196,7 +196,7 @@ export function LinkBioPage() {
           <ProfileSection
             name="Объявления и новости"
             bio="Актуальная информация, события и важные обновления"
-            imageUrl="/images/544291433-18043960274659947-5766591717842883293-n.jpg"
+            imageUrl="https://cdn.poehali.dev/projects/23943b0f-95be-4738-badd-9da0c6c6ef9b/bucket/f64bdf6c-0d5e-4302-bd4f-c7a624666904.jpg"
           />
         </motion.div>
 
