@@ -12,12 +12,6 @@ const links = [
     icon: Megaphone,
   },
   {
-    title: "Последние новости",
-    description: "Обновления и актуальные события",
-    href: "#",
-    icon: Bell,
-  },
-  {
     title: "Расписание мероприятий",
     description: "Ближайшие события и встречи",
     href: "#",
