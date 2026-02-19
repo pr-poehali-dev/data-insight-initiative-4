@@ -14,7 +14,7 @@ const links = [
   {
     title: "Вопросы",
     description: "Ближайшие события и встречи",
-    href: "#",
+    href: "https://max.ru/join/H8dUd32DMXBFNhMh9oQQD62ebcH55qqcuItr2uvM8wU",
     icon: Calendar,
   },
   {
