@@ -12,7 +12,7 @@ const links = [
     icon: Megaphone,
   },
   {
-    title: "Расписание мероприятий",
+    title: "Вопросы",
     description: "Ближайшие события и встречи",
     href: "#",
     icon: Calendar,
