@@ -18,12 +18,6 @@ const links = [
     icon: Calendar,
   },
   {
-    title: "Документы и файлы",
-    description: "Полезные материалы для скачивания",
-    href: "#",
-    icon: FileText,
-  },
-  {
     title: "Написать нам",
     description: "Обратная связь и предложения",
     href: "#",
