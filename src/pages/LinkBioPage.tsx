@@ -2,38 +2,38 @@ import { motion } from "framer-motion"
 import { ProfileSection } from "@/components/ProfileSection"
 import { LinkCard } from "@/components/LinkCard"
 import { SocialFooter } from "@/components/SocialFooter"
-import { Globe, Youtube, Mail, ShoppingBag, FileText, MessageCircle, Send } from "lucide-react"
+import { Megaphone, Bell, Calendar, FileText, MessageCircle, Send, Mail } from "lucide-react"
 
 const links = [
   {
-    title: "Мой сайт",
-    description: "Портфолио и услуги",
+    title: "Важное объявление",
+    description: "Изменения в графике работы с 1 марта",
     href: "#",
-    icon: Globe,
+    icon: Megaphone,
   },
   {
-    title: "YouTube канал",
-    description: "Видео и туториалы",
+    title: "Последние новости",
+    description: "Обновления и актуальные события",
     href: "#",
-    icon: Youtube,
+    icon: Bell,
   },
   {
-    title: "Магазин",
-    description: "Товары и услуги",
+    title: "Расписание мероприятий",
+    description: "Ближайшие события и встречи",
     href: "#",
-    icon: ShoppingBag,
+    icon: Calendar,
   },
   {
-    title: "Telegram",
-    description: "Написать напрямую",
-    href: "#",
-    icon: Send,
-  },
-  {
-    title: "Бесплатные материалы",
-    description: "Шаблоны и гайды",
+    title: "Документы и файлы",
+    description: "Полезные материалы для скачивания",
     href: "#",
     icon: FileText,
+  },
+  {
+    title: "Написать нам",
+    description: "Обратная связь и предложения",
+    href: "#",
+    icon: Send,
   },
 ]
 
@@ -211,8 +211,8 @@ export function LinkBioPage() {
       >
         <motion.div variants={itemVariants} className="pt-2">
           <ProfileSection
-            name="GlassLinks"
-            bio="Креативный дизайнер и разработчик"
+            name="Объявления и новости"
+            bio="Актуальная информация, события и важные обновления"
             imageUrl="/images/544291433-18043960274659947-5766591717842883293-n.jpg"
           />
         </motion.div>
@@ -226,7 +226,7 @@ export function LinkBioPage() {
         </motion.div>
 
         <motion.div variants={itemVariants} className="pb-2">
-          <SocialFooter socials={socials} copyright="2025 GlassLinks" />
+          <SocialFooter socials={socials} copyright="2026 Объявления и новости" />
         </motion.div>
       </motion.div>
     </main>
