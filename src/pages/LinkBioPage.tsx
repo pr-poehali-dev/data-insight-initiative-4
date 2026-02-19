@@ -17,12 +17,7 @@ const links = [
     href: "https://max.ru/join/H8dUd32DMXBFNhMh9oQQD62ebcH55qqcuItr2uvM8wU",
     icon: Calendar,
   },
-  {
-    title: "Написать нам",
-    description: "Обратная связь и предложения",
-    href: "#",
-    icon: Send,
-  },
+
 ]
 
 const socials = [
