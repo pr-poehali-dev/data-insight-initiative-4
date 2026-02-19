@@ -7,7 +7,7 @@ import { Megaphone, Bell, Calendar, FileText, MessageCircle, Send, Mail } from "
 const links = [
   {
     title: "НОВОСТИ",
-    description: "Изменения в графике работы с 1 марта",
+    description: "Посмотри НОВОСТИ Камчатки",
     href: "#",
     icon: Megaphone,
   },
